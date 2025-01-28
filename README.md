@@ -1,1 +1,1 @@
-# nextjs-amazon-cognito-auth-poc
+# php-ci-amazon-cognito-auth-poc
